@@ -1,0 +1,4 @@
+src/app/code/core/Mage/Dataflow/                                    app/code/core/Mage/Dataflow/
+src/app/design/adminhtml/default/default/layout/dataflow.xml        app/design/adminhtml/default/default/layout/dataflow.xml
+src/app/etc/modules/Mage_Dataflow.xml                               app/etc/modules/Mage_Dataflow.xml
+src/app/locale/en_US/Mage_Dataflow.csv                              app/locale/en_US/Mage_Dataflow.csv
